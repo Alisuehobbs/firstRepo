@@ -4,5 +4,3 @@ plz
 all the ranks
 asdfadsfadsf
 abonga
-asdfadsfsg
-asdfasdf
